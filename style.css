@@ -1,7 +1,30 @@
 #menu
 {
 	position: fixed;
-	width: 100%;
-	height: 35px;
-	background: white;
+	width: 75%;
+	height: 25px;
+	background: #ffffe6;
+	font-family:Impact;
 }
+
+#about{background: #e6f9ff;}
+#photos{background: #e6f7ff;}
+#playlist{background: #e6e6ff;}
+#like{background: #ffe6ff;}
+#qrcoder{background: #efe6f2;}
+#spa{background: #ffe6ee;}
+#contact{background: #efe6f7;}
+
+body {background-color: #ffffe6;}
+
+
+h1{
+	font-family:Impact;
+	font-size: 40px;
+}
+
+h3{
+	font-family:Impact;	
+	font-size: 30px;
+}
+
