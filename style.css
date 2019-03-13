@@ -6,6 +6,10 @@
 	class: "w3-bar-item w3-button";
 }
 
+#music{position: fixed;
+	height:12 px;
+	width: 50px;}
+
 #about{
 	color: #191a19;
 	font-size: 25px;
